@@ -24,4 +24,4 @@ I am working on a simple Python program that uses FFmpeg to combine the audio an
 
 These resources can help someone who knows more about all this.
 
-The directory structure is visible at
+The directory structure is visible at https://lxlit.me/Dispatch_Decompiling_Resources/
